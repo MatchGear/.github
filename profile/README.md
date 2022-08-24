@@ -1,17 +1,18 @@
 ## Hi there 👋
-Welcome to the organization page of Sticky Toolkit.
+Welcome to the organization page of MatchGear.
 
-Sticky Toolkit is the ultimate toolkit around your wrist, and helps umpires from various sports around the globe to focus on the match, without having to worry about the rest.
+Umpire, coach, or manager? It doesn't matter: MatchGear for Android Wear OS assists you with all the tools you can possibly need. No matter which sport.
+We currently provide full support for field hockey, indoor hockey, soccer, indoor soccer, and korfball.
 
-If you want to contribute to Sticky Toolkit, e.g. by reporting a bug or submitting a feature request, that can be done via [this link](https://github.com/StickyToolkit/StickyToolkit/issues/new/choose).
+If you want to contribute to MatchGear, e.g. by reporting a bug or submitting a feature request, that can be done via [this link](https://github.com/MatchGear/MatchGear/issues/new/choose).
 
-[Click here](https://github.com/StickyToolkit/StickyToolkit) to visit the main repository of Sticky Toolkit to get an overview of things we're currently working on.
+[Click here](https://github.com/MatchGear/MatchGear) to visit the main repository of MatchGear to get an overview of things we're currently working on.
 
 ## Links
-[Visit our website](https://www.stickytoolkit.com)  
-[Facebook](https://www.facebook.com/stickytoolkit)  
-[Instagram](https://www.instagram.com/stickytoolkit)  
+[Visit our website](https://www.matchgear.app)  
+[Facebook](https://www.matchgear.app/fb)  
+[Instagram](https://www.matchgear.app/insta)  
 
 ## Contact us:  
-[Send us a Whatsapp message](https://wa.me/31852011260)  
-[Send us an e-mail](mailto:info@stickytoolkit.com)
+[Send us a Whatsapp message](https://www.matchgear.app/wa)  
+[Send us an e-mail](mailto:info@matchgear.app)
